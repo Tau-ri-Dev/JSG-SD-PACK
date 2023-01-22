@@ -1,2 +1,3 @@
-# JSG-SD-PACK
-Smaller textures in Resource Pak for Just Stargate Mod
+# SD Pack for Just Stargate Mod
+
+- Contains smaller event horizon textures
